@@ -1,0 +1,7 @@
+\\Mac\Home\Desktop\OOP\Stack\Stack\bin\Debug\Stack.exe.config
+\\Mac\Home\Desktop\OOP\Stack\Stack\bin\Debug\Stack.exe
+\\Mac\Home\Desktop\OOP\Stack\Stack\bin\Debug\Stack.pdb
+\\Mac\Home\Desktop\OOP\Stack\Stack\obj\Debug\Stack.csprojResolveAssemblyReference.cache
+\\Mac\Home\Desktop\OOP\Stack\Stack\obj\Debug\Stack.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\OOP\Stack\Stack\obj\Debug\Stack.exe
+\\Mac\Home\Desktop\OOP\Stack\Stack\obj\Debug\Stack.pdb

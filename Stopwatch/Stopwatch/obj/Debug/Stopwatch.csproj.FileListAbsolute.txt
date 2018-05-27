@@ -1,0 +1,7 @@
+\\Mac\Home\Desktop\OOP\Stopwatch\Stopwatch\bin\Debug\Stopwatch.exe.config
+\\Mac\Home\Desktop\OOP\Stopwatch\Stopwatch\bin\Debug\Stopwatch.exe
+\\Mac\Home\Desktop\OOP\Stopwatch\Stopwatch\bin\Debug\Stopwatch.pdb
+\\Mac\Home\Desktop\OOP\Stopwatch\Stopwatch\obj\Debug\Stopwatch.csprojResolveAssemblyReference.cache
+\\Mac\Home\Desktop\OOP\Stopwatch\Stopwatch\obj\Debug\Stopwatch.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\OOP\Stopwatch\Stopwatch\obj\Debug\Stopwatch.exe
+\\Mac\Home\Desktop\OOP\Stopwatch\Stopwatch\obj\Debug\Stopwatch.pdb
